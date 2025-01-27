@@ -35,7 +35,7 @@ if st.sidebar.button("SQL Query Interface"):
     st.session_state.section = "SQL Query Interface"
 
 # File Upload
-file_path = "/Users/oliviaoliveira/Documents/PhD_PDCDS/projects/heart-disease/data/processed.cleveland.data"
+file_path = "./data/processed.cleveland.data"
 columns = ["age", "sex", "cp", "trestbps", "chol", "fbs", "restecg",
            "thalach", "exang", "oldpeak", "slope", "ca", "thal", "disease_presence"]
 df = pd.read_csv(file_path, names=columns, na_values=["?"])

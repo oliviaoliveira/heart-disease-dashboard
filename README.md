@@ -51,3 +51,6 @@ For a comprehensive understanding and additional context, you can refer to the U
 
 ### Bibliography
 Janosi A, Steinbrunn W, Pfisterer M, Detrano R. Heart Disease [dataset]. 1989. UCI Machine Learning Repository. Available from: https://doi.org/10.24432/C52P4X.
+
+
+#### Dashboard deployed on Streamlit Cloud: https://heart-disease-dashboard-heads.streamlit.app/
