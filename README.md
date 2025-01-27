@@ -41,7 +41,7 @@ Missing Values: certain attributes contain missing data
 For a comprehensive understanding and additional context, you can refer to the UCI Machine Learning Repository's page on the Heart Disease dataset ( https://archive.ics.uci.edu/dataset/45/heart+disease ). 
 
 ### Installation
-1. Github repo: link
+1. Github repo: https://github.com/oliviaoliveira/heart-disease-dashboard
 2. Clone the repository:
    ```bash
    git clone <repository_url>
