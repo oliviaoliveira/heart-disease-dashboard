@@ -34,10 +34,11 @@ The Cleveland Heart Disease dataset is a well-known resource in the medical and 
 
 
 #### Dataset Composition
-Total Instances: 303 patients </br>
-Attribute Count: 14, as detailed above </br>
+Total Instances: 303 patients<br/>
+Attribute Count: 14, as detailed above<br/>
 Missing Values: certain attributes contain missing data
-
+<br/>
+<br/>
 For a comprehensive understanding and additional context, you can refer to the UCI Machine Learning Repository's page on the Heart Disease dataset ( https://archive.ics.uci.edu/dataset/45/heart+disease ). 
 
 ### Installation
