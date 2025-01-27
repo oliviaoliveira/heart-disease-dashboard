@@ -84,6 +84,10 @@ elif st.session_state.section == "Descriptive Analysis":
     st.subheader("**Age Distribution by Sex**")
     plot_age_distribution(df)
 
+    '''Sex mappings:
+    0: Female;
+    1: Male'''
+
 elif st.session_state.section == "Correlation Analysis":
     tab1, tab2, tab3 = st.tabs(["Correlation Heatmap", "Chest Pain Analysis", "Thalassemia Analysis"])
 
